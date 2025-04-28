@@ -29,7 +29,7 @@ The model achieving the highest R² score was considered the best for predicting
 ---
 
 ## 📊 Dataset
-- Dataset: [Udemy Courses Dataset]([https://www.kaggle.com/datasets/andrewmvd/udemy-courses](https://www.kaggle.com/datasets/andrewmvd/udemy-courses) 
+- Dataset: ([https://www.kaggle.com/datasets/andrewmvd/udemy-courses](https://www.kaggle.com/datasets/andrewmvd/udemy-courses) 
 - Features included: price, number of subscribers, course content duration, course category, number of lectures, etc.
 
 
